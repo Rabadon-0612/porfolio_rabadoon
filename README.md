@@ -1,2 +1,3 @@
 # porfolio_rabadoon
 Web for show info about Rabadoon
+Chào anh/chị đã ghé thăm trang github của em ạ.....
